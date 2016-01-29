@@ -5,10 +5,10 @@
 npm-debug.log
 
 # build directories
-/platforms
-/www/*
-!/www/.gitkeep
+/cordova/platforms
+/cordova/www/*
+!/cordova/www/.gitkeep
 
 # development directories
 /node_modules
-/plugins/*/*
+/cordova/plugins/*/*
